@@ -16,6 +16,7 @@ I’m driven by real-world problems that can be tackled through software develop
 
 ## Current Focus 📚
 - Computer Science with a focus on software development
+- Gaining UI/UX design experience
 - Expanding my skills in game design
 - Sustainable fertilizer and plant research in college
 
