@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=497be6&height=300&section=header&text=Hello%20there,%20I'm%20Shajnin%20Howlader&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20and%20CS%20major%20at%20Muhlenberg%20College&descAlignY=51&descAlign=62"/>
+</p>
 
-# Hello world, I'm Shajnin Howlader
-
-## My mission 🚀
+## Get to know me 🚀
 I’m driven by real world problems that can be solved with software developement! With a technical and research background, I’ve found my place in combining my passion for bettering/solving human experiences, and promoting eco-sustainability. My mission is to continue making these intersections in my work, build connections, and tackle real-world challenges that make a meaningful difference.
 
 ## Main skills ⭐
