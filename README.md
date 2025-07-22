@@ -3,7 +3,7 @@
 </p>
 
 ## Get to know me 🚀
-I’m driven by real world problems that can be solved with software developement! With a technical and research background, I’ve found my place in combining my passion for bettering/solving human experiences, and promoting eco-sustainability. My mission is to continue making these intersections in my work, build connections, and tackle real-world challenges that make a meaningful difference.
+I’m driven by real-world problems that can be tackled through software development. With a growing foundation in technical and research skills, I’ve found purpose in combining my passion for improving human experiences and promoting eco-sustainability. My mission is to keep exploring where technology meets impact, building connections, learning by doing, and contributing to solutions that make a meaningful difference.
 
 ## Main skills ⭐
 - Python
